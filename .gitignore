@@ -1,0 +1,11 @@
+# West / ZMK workspace (создаётся при сборке, не коммитить)
+.west/
+modules/
+tools/
+zephyr/
+zmk/
+bootloader/
+zmk-nice-oled/
+
+# Артефакты сборки
+build/
